@@ -37,7 +37,7 @@ Skip Slippi SSS (Slippi build only) (KELLZ)
 No Automatic Start Screen Transition (Achilles)  
 Enter Action State Subaction Event (UnclePunch)
 
-**DOL patches used** (square brackets = creator of DOL patch)  
+**DOL patches used** (brackets = creator of DOL patch)  
 Rage Knockback PoC 0.1 (Punkline)
 
 Inspired by Alpharad's Silly Melee
