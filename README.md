@@ -11,7 +11,7 @@ Funny Melee is a gameplay overhaul mod for Super Smash Bros. Melee inspired by A
 Additionally, several mechanics have been altered to make Melee more accessible and even more fast-paced.
 
 # How to patch:
-[Download latest release](github.com/IcyKeswick/funny_melee/releases)  
+[Download latest release](releases)  
 Playing on Slippi Dolphin is recommended for improved stability.
 
 # More info:
