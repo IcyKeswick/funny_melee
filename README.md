@@ -1,4 +1,5 @@
 # Funny Melee
+<img width="574" height="231" alt="funny-melee-logo" src="https://github.com/user-attachments/assets/5122e576-0889-45fa-bb8a-16dca2ab564b" />
 
 # About
 funny  
