@@ -13,3 +13,8 @@ Additionally, several mechanics have been altered to make Melee more accessible 
 # How to patch:
 [Download latest release](github.com/IcyKeswick/funny_melee/releases)  
 Playing on Slippi Dolphin is recommended for improved stability.
+
+# More info:
+Full patch notes coming soon<sup>TM</sup>
+[Info sheet](https://docs.google.com/document/d/1UewBrSGPFt2TUzpTihTdDzrSKkOguTqu227n9Z8eTjI/edit?usp=sharing)
+Credits are in CREDITS.md
