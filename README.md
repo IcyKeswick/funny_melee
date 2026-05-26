@@ -16,6 +16,6 @@ Additionally, several mechanics have been altered to make Melee more accessible 
 Playing on Slippi Dolphin is recommended for improved stability.
 
 # More info:
-Full patch notes coming soon<sup>TM</sup>  
+[Full patch notes](https://docs.google.com/document/d/1wsCCp0oIq2mJmKW1Uge-kA-KyPcHqztjPzkW1UzXRs0/edit?usp=sharing)  
 [Info sheet](https://docs.google.com/document/d/1UewBrSGPFt2TUzpTihTdDzrSKkOguTqu227n9Z8eTjI/edit?usp=sharing)  
 [Credits](CREDITS.md)
