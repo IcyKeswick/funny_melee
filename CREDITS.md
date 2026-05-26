@@ -36,8 +36,6 @@ Weight-Dependent Throws (sushie)
 Skip Slippi SSS (Slippi build only) (KELLZ)  
 No Automatic Start Screen Transition (Achilles)  
 Enter Action State Subaction Event (UnclePunch)
-
-**DOL patches used** (brackets = creator of DOL patch)  
-Rage Knockback PoC 0.1 (Punkline)
+Enable Other Elements for Throws v1.0.0 (sushie)
 
 Inspired by Alpharad's Silly Melee
